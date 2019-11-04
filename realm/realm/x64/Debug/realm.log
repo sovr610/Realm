@@ -1,0 +1,109 @@
+﻿  realm.cpp
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\realm.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(1,1): warning C4335: Mac file format detected: please convert the source file to either DOS or UNIX format
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(1,1): error C3872: '0x90': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(1,6): error C2018: unknown character '0x3'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(1,10): error C2018: unknown character '0x4'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(1,29): error C2018: unknown character '0x40'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(1,65): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(1,14): error C2146: syntax error: missing ';' before identifier 'ÿÿ¸'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(1,71): error C2018: unknown character '0xe'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(1,72): error C2018: unknown character '0x1f'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(1,75): error C2018: unknown character '0xe'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(1,85): error C2018: unknown character '0x1'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,1): error C3872: '0x24': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,1): error C3872: '0x2020': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,35): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,35): warning C4129: '': unrecognized character escape sequence
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,35): error C3872: '0x2030': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2030): error C2018: unknown character '0x10'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2032): error C3872: '0x2030': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2032): error C3872: '0x2026': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2069): error C2018: unknown character '0x2'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2070): error C3872: '0x2030': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2070): error C3872: '0x4': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2070): error C3872: '0x24': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2102): error C2017: illegal escape sequence
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2103): error C3872: '0x2039': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2115): error C2018: unknown character '0x5'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2119): error C2018: unknown character '0x13'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2132): error C2018: unknown character '0x1'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2135): error C3872: '0x2030': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2135): error C3872: '0x24': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2160): error C2018: unknown character '0x10'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2166): error C2018: unknown character '0x10'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2168): error C3872: '0x2039': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2168): error C3872: '0x24': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2188): error C3872: '0x90': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2188): error C3872: '0x8d': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2222): error C2018: unknown character '0x19'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2224): error C2018: unknown character '0x10'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2226): error C2018: unknown character '0xf'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2227): error C2018: unknown character '0x1f'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2228): error C2018: unknown character '0x40'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2230): error C3872: '0x90': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2264): error C2018: unknown character '0x5'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2265): error C3873: '0x2013': this character is not allowed as a first character of an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2269): error C2018: unknown character '0x10'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2271): error C2018: unknown character '0x1'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2277): error C2018: unknown character '0xf'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2278): error C2018: unknown character '0x1f'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2289): error C3873: '0x2039': this character is not allowed as a first character of an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2292): error C2018: unknown character '0x5'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2293): error C3873: '0x2026': this character is not allowed as a first character of an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2297): error C2018: unknown character '0x10'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2299): error C3873: '0x2030': this character is not allowed as a first character of an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2299): error C3872: '0x2026': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2309): error C2018: unknown character '0xf'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2310): error C3873: '0x201e': this character is not allowed as a first character of an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2313): error C2143: syntax error: missing ')' before ';'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2314): error C2018: unknown character '0x2'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2317): error C3872: '0xa6': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2321): error C2018: unknown character '0x17'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2324): error C3873: '0x2030': this character is not allowed as a first character of an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2334): error C2018: unknown character '0x2'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2335): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2324): error C2146: syntax error: missing ';' before identifier '‰Ø€Ì'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2340): error C2018: unknown character '0xf'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2341): error C3872: '0x2030': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2351): error C2018: unknown character '0x12'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2354): error C3873: '0xf7': this character is not allowed as a first character of an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2359): error C2018: unknown character '0x2'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2362): error C2018: unknown character '0xf'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2363): error C3873: '0x2026': this character is not allowed as a first character of an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2363): error C3872: '0x2026': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2383): error C2018: unknown character '0xf'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2385): error C3873: '0x2026': this character is not allowed as a first character of an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2390): error C2018: unknown character '0xf'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2391): error C3872: '0xf7': this character is not allowed in an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2395): error C2018: unknown character '0x1'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2403): error C2018: unknown character '0x10'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2409): error C2018: unknown character '0x40'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2410): error C2018: unknown character '0xf'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2411): error C3873: '0x2026': this character is not allowed as a first character of an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2423): error C2018: unknown character '0x1'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2425): error C2018: unknown character '0x18'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2426): error C2018: unknown character '0xf'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2427): error C3873: '0xb6': this character is not allowed as a first character of an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2429): error C2018: unknown character '0x5'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2433): error C2018: unknown character '0x14'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2435): error C3873: '0x201e': this character is not allowed as a first character of an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2440): error C2018: unknown character '0xf'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2441): error C3873: '0x201e': this character is not allowed as a first character of an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2444): error C2018: unknown character '0x15'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2445): error C2018: unknown character '0x1'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2452): error C2018: unknown character '0x1'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2455): error C2018: unknown character '0x5'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2459): error C2018: unknown character '0x14'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2467): error C2018: unknown character '0x18'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2468): error C2018: unknown character '0xf'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2469): error C3873: '0xb6': this character is not allowed as a first character of an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2471): error C2018: unknown character '0x5'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2475): error C2018: unknown character '0x14'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2477): error C3873: '0x201e': this character is not allowed as a first character of an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2482): error C2018: unknown character '0xf'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2483): error C3873: '0x201e': this character is not allowed as a first character of an identifier
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2486): error C2018: unknown character '0x18'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2487): error C2018: unknown character '0x1'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2494): error C2018: unknown character '0x1'
+C:\Users\Sovr6\OneDrive\Desktop\Realm\realm\realm\SDL2.dll(2,2494): fatal error C1003: error count exceeds 100; stopping compilation
