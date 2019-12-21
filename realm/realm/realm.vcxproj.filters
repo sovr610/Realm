@@ -18,10 +18,18 @@
     <ClCompile Include="realm.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="luaScript.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="SDL2.dll">
       <Filter>Resource Files</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="luaScript.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
